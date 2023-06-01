@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6c72cb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Mota;I'm+FullStack+Web+Developer+Studying+at+Blue+Edtech;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-danielmota.herokuapp.com/](https://portfolio-danielmota.herokuapp.com/)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danmota96" alt="danmota96" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danmota96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danmota96" height="30" width="40" /></a>
